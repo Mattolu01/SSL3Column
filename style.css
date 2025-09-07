@@ -25,6 +25,20 @@ body {}
     padding: 20px;
 }
 
-/* .input {
-    border: 100px;
-} */
+.input1 {
+    font-weight: bold;
+    border-radius: 10px;
+    color: hsl(31, 77%, 52%);
+}
+
+.input2 {
+    font-weight: bold;
+    border-radius: 10px;
+    color: hsl(184, 100%, 22%);
+}
+
+.input3 {
+    font-weight: bold;
+    border-radius: 10px;
+    color: hsl(179, 100%, 13%);
+}
