@@ -1,0 +1,9 @@
+body {}
+
+.container {
+    display: flex;
+}
+
+.input {
+    border: 100px;
+}
