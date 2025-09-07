@@ -2,8 +2,29 @@ body {}
 
 .container {
     display: flex;
+    flex-direction: row;
+    margin: 15%;
+    flex-wrap: nowrap;
+
+
 }
 
-.input {
-    border: 100px;
+.sub-container1 {
+
+    background: hsl(31, 77%, 52%);
+    padding: 20px;
 }
+
+.sub-container2 {
+    background: hsl(184, 100%, 22%);
+    padding: 20px;
+}
+
+.sub-container3 {
+    background: hsl(179, 100%, 13%);
+    padding: 20px;
+}
+
+/* .input {
+    border: 100px;
+} */
